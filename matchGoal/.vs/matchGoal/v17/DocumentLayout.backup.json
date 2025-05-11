@@ -1,0 +1,612 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\API\\matchGoal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\services\\repositories\\playlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\services\\repositories\\playlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\services\\interfaces\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\services\\interfaces\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\dto\\addtoplaylistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\dto\\addtoplaylistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\dto\\addupdatematchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\dto\\addupdatematchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\controllers\\competetionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\controllers\\competetionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\mapping\\competitionmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\mapping\\competitionmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\enums\\matchstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\enums\\matchstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\dto\\competitiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\dto\\competitiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\services\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\services\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\dto\\matchfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\dto\\matchfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\services\\interfaces\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\services\\interfaces\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\dto\\matchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\dto\\matchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\models\\blacklistedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\models\\blacklistedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\services\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\services\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\services\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\services\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\services\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\services\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\mapping\\teammapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\mapping\\teammapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\dto\\teamwithoutmatchesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\dto\\teamwithoutmatchesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\dto\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\dto\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\services\\interfaces\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\services\\interfaces\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\mapping\\matchmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\mapping\\matchmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\dto\\shallowmatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\dto\\shallowmatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|d:\\projects\\api\\matchgoal\\matchgoalapi\\models\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197487EA-6B8F-4238-8E40-8634142F41B7}|MatchGoalAPI\\MatchGoalAPI.csproj|solutionrelative:matchgoalapi\\models\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayListRepository.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\Repositories\\PlayListRepository.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Services\\Repositories\\PlayListRepository.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\Repositories\\PlayListRepository.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Services\\Repositories\\PlayListRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:55:13.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddToPlaylistRequest.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\AddToPlaylistRequest.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Dto\\AddToPlaylistRequest.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\AddToPlaylistRequest.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Dto\\AddToPlaylistRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:58:15.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayListController.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\PlayListController.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Controllers\\PlayListController.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\PlayListController.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Controllers\\PlayListController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA5wCMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:57:23.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPlayListRepository.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\InterFaces\\IPlayListRepository.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Services\\InterFaces\\IPlayListRepository.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\InterFaces\\IPlayListRepository.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Services\\InterFaces\\IPlayListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:54:45.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayList.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Models\\PlayList.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Models\\PlayList.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Models\\PlayList.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Models\\PlayList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:52:07.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Controllers\\MatchesController.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Controllers\\MatchesController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwE4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:44:03.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Program.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Program.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:15:30.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompetetionsController.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\CompetetionsController.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Controllers\\CompetetionsController.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\CompetetionsController.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Controllers\\CompetetionsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:34:02.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAkwG0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:41:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MatchStatusEnum.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\enums\\MatchStatusEnum.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\enums\\MatchStatusEnum.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\enums\\MatchStatusEnum.cs",
+              "RelativeToolTip": "MatchGoalAPI\\enums\\MatchStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:02:38.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvyQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:14:30.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompetitionMapperProfile.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Mapping\\CompetitionMapperProfile.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Mapping\\CompetitionMapperProfile.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Mapping\\CompetitionMapperProfile.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Mapping\\CompetitionMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:36:31.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddUpdateMatchDto.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\AddUpdateMatchDto.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Dto\\AddUpdateMatchDto.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\AddUpdateMatchDto.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Dto\\AddUpdateMatchDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:13:37.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:33:38.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompetitionDto.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\CompetitionDto.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Dto\\CompetitionDto.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\CompetitionDto.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Dto\\CompetitionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:52:52.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MatchFilterDto.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\MatchFilterDto.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Dto\\MatchFilterDto.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\MatchFilterDto.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Dto\\MatchFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:02:00.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Controllers\\TeamsController.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:17:11.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MatchRepository.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\Repositories\\MatchRepository.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Services\\Repositories\\MatchRepository.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\Repositories\\MatchRepository.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Services\\Repositories\\MatchRepository.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswJ0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:44:12.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMatchRepository.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\InterFaces\\IMatchRepository.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Services\\InterFaces\\IMatchRepository.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\InterFaces\\IMatchRepository.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Services\\InterFaces\\IMatchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:14:49.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlackListedToken.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Models\\BlackListedToken.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Models\\BlackListedToken.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Models\\BlackListedToken.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Models\\BlackListedToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:13:50.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\appsettings.json",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\appsettings.json",
+              "RelativeToolTip": "MatchGoalAPI\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T20:16:07.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MatchDto.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\MatchDto.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Dto\\MatchDto.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\MatchDto.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Dto\\MatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:03:08.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Services\\Repositories\\AuthRepository.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Services\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T11:09:53.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Services\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Services\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:57:01.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\AuthDto.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Dto\\AuthDto.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\AuthDto.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Dto\\AuthDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T11:05:41.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Services\\Repositories\\TeamRepository.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Services\\Repositories\\TeamRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:18:35.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MatchGoalAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T08:09:22.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TeamMapperProfile.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Mapping\\TeamMapperProfile.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Mapping\\TeamMapperProfile.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Mapping\\TeamMapperProfile.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Mapping\\TeamMapperProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:49:33.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TeamWithoutMatchesDto.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\TeamWithoutMatchesDto.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Dto\\TeamWithoutMatchesDto.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\TeamWithoutMatchesDto.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Dto\\TeamWithoutMatchesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:44:38.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeamDto.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\TeamDto.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Dto\\TeamDto.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\TeamDto.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Dto\\TeamDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:01:06.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\InterFaces\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Services\\InterFaces\\ITeamRepository.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Services\\InterFaces\\ITeamRepository.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Services\\InterFaces\\ITeamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:17:34.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MatchMapperProfile.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Mapping\\MatchMapperProfile.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Mapping\\MatchMapperProfile.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Mapping\\MatchMapperProfile.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Mapping\\MatchMapperProfile.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:44:56.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ShallowMatchDto.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\ShallowMatchDto.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Dto\\ShallowMatchDto.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Dto\\ShallowMatchDto.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Dto\\ShallowMatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:44:12.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Match.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Models\\Match.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Models\\Match.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Models\\Match.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:53:14.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Controllers\\TokenController.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:17:00.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Competition.cs",
+              "DocumentMoniker": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Models\\Competition.cs",
+              "RelativeDocumentMoniker": "MatchGoalAPI\\Models\\Competition.cs",
+              "ToolTip": "D:\\projects\\API\\matchGoal\\MatchGoalAPI\\Models\\Competition.cs",
+              "RelativeToolTip": "MatchGoalAPI\\Models\\Competition.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:52:58.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
